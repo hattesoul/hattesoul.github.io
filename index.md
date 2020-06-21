@@ -14,3 +14,5 @@ In the year 2019 Kaneda is the leader of a biker gang in Neo-Tokyo, a metropolis
 
 Kaneda:
 > That's Mr. Kaneda to you, punk!
+
+<img src="https://vignette.wikia.nocookie.net/akira/images/e/e5/Shotaro_Kaneda_at_Volume_1._AKIRA_manga/revision/latest?cb=20200606124139&format=original">
