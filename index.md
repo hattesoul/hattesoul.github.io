@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# Shotaro Kaneda (金田正太郎 Kaneda Shōtarō)
