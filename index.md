@@ -11,3 +11,6 @@ In the year 2019 Kaneda is the leader of a biker gang in Neo-Tokyo, a metropolis
 * tough
 * brave
 * owner of a high-tech motorcycle
+
+Kaneda:
+> That's Mr. Kaneda to you, punk!
